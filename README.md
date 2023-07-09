@@ -11,7 +11,7 @@ It is possible that some errors in artist location data have snuck through. If y
 
 While I may update this data set with new charts from time to time, I am not intending to do weekly updates.
 
-This repository contains three csv files
+This repository contains three csv files, and contains chart data up to and including **3 July 2023**.
 
 ### [album_charts.csv](https://github.com/caseybriggs/ARIA-charts/blob/c98f825aea60e1dd107249566e3b53809fc0397a/album_charts.csv)
 
