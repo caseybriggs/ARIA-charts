@@ -13,7 +13,7 @@ While I may update this data set with new charts from time to time, I am not int
 
 This repository contains three csv files
 
-### album_charts.csv
+### [album_charts.csv](https://github.com/caseybriggs/ARIA-charts/blob/c98f825aea60e1dd107249566e3b53809fc0397a/album_charts.csv)
 
 <center>
 
@@ -43,7 +43,7 @@ Notes on location classification:
 - We align with the ARIA classification of Split Enz (Australian), Joji (Australian), and triple j Like a Version compilations (not Australian)
 - Classification of other soundtracks and compilations is necessarily imperfect. As a general rule we classify tribute albums to Australian artists, soundtracks to Australian TV shows and movies where those soundtracks include a significant number of Australian artists, compilations of live recordings from Australian television and radio programs as Australian. This is likely to be the most subjective category of release.
 
-### single_charts.csv
+### [single_charts.csv](https://github.com/caseybriggs/ARIA-charts/blob/c98f825aea60e1dd107249566e3b53809fc0397a/single_charts.csv)
 
 <center>
 
@@ -61,7 +61,7 @@ Dictionary:
 - **title**: The title of the release as it appeared on the ARIA charts
 - **aus_flag**: For charts since July 2019 only. TRUE if the artist is Australian, FALSE if otherwise. For older charts this will be NA 
 
-### newsingle_charts.csv
+### [newsingle_charts.csv](https://github.com/caseybriggs/ARIA-charts/blob/c98f825aea60e1dd107249566e3b53809fc0397a/newsingle_charts.csv)
 
 Collected from the [ARIA website](https://www.aria.com.au/charts/new-singles-chart/). This chart was first published in 2022 and only publishes a top 20 each week
 
