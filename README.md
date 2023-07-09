@@ -21,7 +21,7 @@ This repository contains three csv files, and contains chart data up to and incl
 
 </center> 
 
-Chart data collected from the [ARIA website](https://www.aria.com.au/charts/singles-chart/) (data since July 2019) and [australian-charts.com](australian-charts.com) (prior to July 2019), and supplemented with data from MusicBrainz and manual data entry and correction.
+Chart data collected from the [ARIA website](https://www.aria.com.au/charts/singles-chart/) (data since July 2019) and [australian-charts.com](https://www.australian-charts.com) (prior to July 2019), and supplemented with data from MusicBrainz and manual data entry and correction.
 
 Please see the important note below about the `location` column.
 
