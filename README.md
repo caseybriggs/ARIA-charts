@@ -2,8 +2,8 @@
 
 Full ARIA chart data compiled by Casey Briggs and used in the the following ABC News reporting:
 
-- [ABC News Video Lab program](www.google.com)
-- [ABC News text story](www.google.com)
+- [ABC News Video Lab program](https://www.youtube.com/watch?v=dpjYGTekLIY)
+- [ABC News text story](https://www.abc.net.au/news/2023-07-09/australian-music-in-aria-charts-has-plummeted-heres-why/102575198)
 
 We have checked this data set for errors sufficient for ABC reporting purposes, but neither I nor the ABC take responsibility for any issues that arise from further use of the data and you should satisfy yourself that it is suitable for your purposes before using.
 
