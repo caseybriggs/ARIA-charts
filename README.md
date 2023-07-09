@@ -17,7 +17,7 @@ This repository contains three csv files
 
 <center>
 
-![](aussie_charts.png){#id .class width=700}
+![](aussie_charts.png)
 
 </center> 
 
@@ -47,7 +47,7 @@ Notes on location classification:
 
 <center>
 
-![](aussie_charts_singles.png){#id .class width=700}
+![](aussie_charts_singles.png)
 
 </center> 
 
