@@ -1,4 +1,4 @@
-# ARIA chart data
+# ARIA music chart data
 
 Full ARIA chart data compiled by Casey Briggs and used in the the following ABC News reporting:
 
