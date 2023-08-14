@@ -7,11 +7,9 @@ Full ARIA chart data compiled by Casey Briggs and used in the the following ABC 
 
 We have checked this data set for errors sufficient for ABC reporting purposes, but neither I nor the ABC take responsibility for any issues that arise from further use of the data and you should satisfy yourself that it is suitable for your purposes before using.
 
-It is possible that some errors in artist location data have snuck through. If you discover an error please file an issue or [get in touch](https://www.caseybriggs.com/)
+It is possible that some errors in artist location data have snuck through. If you discover an error please file an issue or [get in touch](https://www.caseybriggs.com/). This data should update weekly but I am not actively monitoring it. 
 
-While I may update this data set with new charts from time to time, I am not intending to do weekly updates.
-
-This repository contains three csv files, and contains chart data up to and including **3 July 2023**.
+This repository contains three csv files:
 
 ### [album_charts.csv](https://github.com/caseybriggs/ARIA-charts/blob/c98f825aea60e1dd107249566e3b53809fc0397a/album_charts.csv)
 
