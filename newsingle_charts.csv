@@ -1,4 +1,124 @@
 "chart_date","rank","artist","title","aus_flag","last_week","peak","weeks_in"
+2023-08-14,1,"Billie Eilish","What Was I Made For?",FALSE,"1",1,4
+2023-08-14,2,"Dave, Central Cee","Sprinter",FALSE,"2",1,10
+2023-08-14,3,"Dua Lipa","Dance The Night",FALSE,"4",3,11
+2023-08-14,4,"Nicki Minaj, Ice Spice & Aqua","Barbie World",FALSE,"3",3,7
+2023-08-14,5,"Olivia Rodrigo","Vampire",FALSE,"5",1,6
+2023-08-14,6,"Gunna","F*kumean",FALSE,"7",4,6
+2023-08-14,7,"Doja Cat","Paint The Town Red",FALSE,"–",7,1
+2023-08-14,8,"The Weeknd Feat. Playboi Carti, Madonna","Popular",FALSE,"9",5,10
+2023-08-14,9,"Travis Scott Feat. Drake","Meltdown",FALSE,"6",6,2
+2023-08-14,10,"Jung Kook Feat. Latto","Seven",FALSE,"11",2,4
+2023-08-14,11,"Travis Scott Feat. SZA & Future","Telekinesis",FALSE,"–",11,1
+2023-08-14,12,"Charli XCX","Speed Drive",FALSE,"14",12,2
+2023-08-14,13,"Travis Scott Feat. Playboi Carti","Fe!n",FALSE,"8",8,2
+2023-08-14,14,"NewJeans","Super Shy",FALSE,"15",10,5
+2023-08-14,15,"Troye Sivan","Rush",TRUE,"16",8,4
+2023-08-14,16,"Lil Durk Feat. J. Cole","All My Life",FALSE,"17",4,13
+2023-08-14,17,"Peggy Gou","(It Goes Like) Nanana",FALSE,"19",17,2
+2023-08-14,18,"Hooligan Hefs","And We",TRUE,"18",18,2
+2023-08-14,19,"Post Malone","Enough Is Enough",FALSE,"–",19,1
+2023-08-14,20,"Ed Sheeran Feat. Luke Combs","Life Goes On",FALSE,"24",10,4
+2023-08-07,1,"Billie Eilish","What Was I Made For?",FALSE,"2",1,3
+2023-08-07,2,"Dave, Central Cee","Sprinter",FALSE,"1",1,9
+2023-08-07,3,"Nicki Minaj, Ice Spice & Aqua","Barbie World",FALSE,"3",3,6
+2023-08-07,4,"Dua Lipa","Dance The Night",FALSE,"5",4,10
+2023-08-07,5,"Olivia Rodrigo","Vampire",FALSE,"4",1,5
+2023-08-07,6,"Travis Scott Feat. Drake","Meltdown",FALSE,"–",6,1
+2023-08-07,7,"Gunna","F*kumean",FALSE,"7",4,5
+2023-08-07,8,"Travis Scott Feat. Playboi Carti","Fe!n",FALSE,"–",8,1
+2023-08-07,9,"The Weeknd Feat. Playboi Carti, Madonna","Popular",FALSE,"8",5,9
+2023-08-07,10,"Post Malone","Chemical",FALSE,"12",6,16
+2023-08-07,11,"Jung Kook Feat. Latto","Seven",FALSE,"6",2,3
+2023-08-07,12,"David Kushner","Daylight",FALSE,"9",3,16
+2023-08-07,13,"Travis Scott","Hyaena",FALSE,"–",13,1
+2023-08-07,14,"Charli XCX","Speed Drive",FALSE,"26",14,1
+2023-08-07,15,"NewJeans","Super Shy",FALSE,"10",10,4
+2023-08-07,16,"Troye Sivan","Rush",TRUE,"11",8,3
+2023-08-07,17,"Lil Durk Feat. J. Cole","All My Life",FALSE,"14",4,12
+2023-08-07,18,"Hooligan Hefs","And We",TRUE,"–",18,1
+2023-08-07,19,"Peggy Gou","(It Goes Like) Nanana",FALSE,"23",19,1
+2023-08-07,20,"Ryan Gosling","I'm Just Ken",FALSE,"25",20,1
+2023-07-31,1,"Dave, Central Cee","Sprinter",FALSE,"1",1,8
+2023-07-31,2,"Billie Eilish","What Was I Made For?",FALSE,"5",2,2
+2023-07-31,3,"Nicki Minaj, Ice Spice & Aqua","Barbie World",FALSE,"11",3,5
+2023-07-31,4,"Olivia Rodrigo","Vampire",FALSE,"3",1,4
+2023-07-31,5,"Dua Lipa","Dance The Night",FALSE,"13",5,9
+2023-07-31,6,"Jung Kook Feat. Latto","Seven",FALSE,"2",2,2
+2023-07-31,7,"Gunna","F*kumean",FALSE,"4",4,4
+2023-07-31,8,"The Weeknd Feat. Playboi Carti, Madonna","Popular",FALSE,"7",5,8
+2023-07-31,9,"David Kushner","Daylight",FALSE,"6",3,15
+2023-07-31,10,"NewJeans","Super Shy",FALSE,"12",10,3
+2023-07-31,11,"Troye Sivan","Rush",TRUE,"8",8,2
+2023-07-31,12,"Post Malone","Chemical",FALSE,"9",6,15
+2023-07-31,13,"Travis Scott, Bad Bunny & The Weeknd","K-Pop",FALSE,"–",13,1
+2023-07-31,14,"Lil Durk Feat. J. Cole","All My Life",FALSE,"14",4,11
+2023-07-31,15,"NewJeans","ETA",FALSE,"–",15,1
+2023-07-31,16,"NewJeans","Cool With You",FALSE,"–",16,1
+2023-07-31,17,"Taylor Swift","I Can See You (Taylor's Version) (From The Vault)",FALSE,"10",3,3
+2023-07-31,18,"Kylie Minogue","Padam Padam",TRUE,"15",6,10
+2023-07-31,19,"Noah Kahan","Dial Drunk",FALSE,"24",19,2
+2023-07-31,20,"Lewis Capaldi","Wish You The Best",FALSE,"18",10,15
+2023-07-24,1,"Dave, Central Cee","Sprinter",FALSE,"1",1,7
+2023-07-24,2,"Jung Kook Feat. Latto","Seven",FALSE,"–",2,1
+2023-07-24,3,"Olivia Rodrigo","Vampire",FALSE,"2",1,3
+2023-07-24,4,"Gunna","F*kumean",FALSE,"9",4,3
+2023-07-24,5,"Billie Eilish","What Was I Made For? (From The Motion Picture Barbie)",FALSE,"–",5,1
+2023-07-24,6,"David Kushner","Daylight",FALSE,"6",3,14
+2023-07-24,7,"The Weeknd Feat. Playboi Carti, Madonna","Popular",FALSE,"8",5,7
+2023-07-24,8,"Troye Sivan","Rush",TRUE,"–",8,1
+2023-07-24,9,"Post Malone","Chemical",FALSE,"10",6,14
+2023-07-24,10,"Taylor Swift","I Can See You (Taylor's Version) (From The Vault)",FALSE,"3",3,2
+2023-07-24,11,"Nicki Minaj, Ice Spice & Aqua","Barbie World",FALSE,"14",8,4
+2023-07-24,12,"NewJeans","Super Shy",FALSE,"11",11,2
+2023-07-24,13,"Dua Lipa","Dance The Night (From Barbie The Album)",FALSE,"13",6,8
+2023-07-24,14,"Lil Durk Feat. J. Cole","All My Life",FALSE,"12",4,10
+2023-07-24,15,"Kylie Minogue","Padam Padam",TRUE,"15",6,9
+2023-07-24,16,"Taylor Swift","Enchanted (Taylor's Version)",FALSE,"5",5,2
+2023-07-24,17,"Kali","Area Codes",FALSE,"19",6,10
+2023-07-24,18,"Lewis Capaldi","Wish You The Best",FALSE,"18",10,14
+2023-07-24,19,"Post Malone","Overdrive",FALSE,"–",19,1
+2023-07-24,20,"Lana Del Rey","Say Yes To Heaven",FALSE,"21",7,8
+2023-07-17,1,"Dave, Central Cee","Sprinter",FALSE,"2",1,6
+2023-07-17,2,"Olivia Rodrigo","Vampire",FALSE,"1",1,2
+2023-07-17,3,"Taylor Swift","I Can See You (Taylor's Version) (From The Vault)",FALSE,"–",3,1
+2023-07-17,4,"Luke Combs","Fast Car",FALSE,"3",2,15
+2023-07-17,5,"Taylor Swift","Enchanted (Taylor's Version)",FALSE,"–",5,1
+2023-07-17,6,"David Kushner","Daylight",FALSE,"4",3,13
+2023-07-17,7,"Taylor Swift","Mine (Taylor's Version)",FALSE,"–",7,1
+2023-07-17,8,"The Weeknd Feat. Playboi Carti, Madonna","Popular",FALSE,"5",5,6
+2023-07-17,9,"Gunna","F*kumean",FALSE,"11",9,2
+2023-07-17,10,"Post Malone","Chemical",FALSE,"6",6,13
+2023-07-17,11,"NewJeans","Super Shy",FALSE,"–",11,1
+2023-07-17,12,"Lil Durk Feat. J. Cole","All My Life",FALSE,"7",4,9
+2023-07-17,13,"Dua Lipa","Dance The Night (From Barbie The Album)",FALSE,"10",6,7
+2023-07-17,14,"Nicki Minaj, Ice Spice & Aqua","Barbie World",FALSE,"8",8,3
+2023-07-17,15,"Kylie Minogue","Padam Padam",TRUE,"9",6,8
+2023-07-17,16,"Ed Sheeran","Eyes Closed",FALSE,"12",3,16
+2023-07-17,17,"Metro Boomin, A$AP Rocky, Roisee","Am I Dreaming",FALSE,"14",8,6
+2023-07-17,18,"Lewis Capaldi","Wish You The Best",FALSE,"15",10,13
+2023-07-17,19,"Kali","Area Codes",FALSE,"13",6,9
+2023-07-17,20,"David Guetta, Anne-Marie & Coi Leray","Baby Don't Hurt Me",FALSE,"17",17,7
+2023-07-10,1,"Olivia Rodrigo","Vampire",FALSE,"–",1,1
+2023-07-10,2,"Dave, Central Cee","Sprinter",FALSE,"1",1,5
+2023-07-10,3,"Luke Combs","Fast Car",FALSE,"2",2,14
+2023-07-10,4,"David Kushner","Daylight",FALSE,"3",3,12
+2023-07-10,5,"The Weeknd Feat. Playboi Carti, Madonna","Popular",FALSE,"5",5,5
+2023-07-10,6,"Post Malone","Chemical",FALSE,"13",6,12
+2023-07-10,7,"Lil Durk Feat. J. Cole","All My Life",FALSE,"4",4,8
+2023-07-10,8,"Nicki Minaj, Ice Spice & Aqua","Barbie World",FALSE,"12",8,2
+2023-07-10,9,"Kylie Minogue","Padam Padam",TRUE,"7",6,7
+2023-07-10,10,"Dua Lipa","Dance The Night (From Barbie The Album)",FALSE,"11",6,6
+2023-07-10,11,"Gunna","F*kumean",FALSE,"–",11,1
+2023-07-10,12,"Ed Sheeran","Eyes Closed",FALSE,"10",3,15
+2023-07-10,13,"Kali","Area Codes",FALSE,"8",6,8
+2023-07-10,14,"Metro Boomin, A$AP Rocky, Roisee","Am I Dreaming",FALSE,"9",8,5
+2023-07-10,15,"Lewis Capaldi","Wish You The Best",FALSE,"14",10,12
+2023-07-10,16,"Lana Del Rey","Say Yes To Heaven",FALSE,"15",7,7
+2023-07-10,17,"David Guetta, Anne-Marie & Coi Leray","Baby Don't Hurt Me",FALSE,"18",17,6
+2023-07-10,18,"Lil Uzi Vert","Flooded The Face",FALSE,"–",18,1
+2023-07-10,19,"Doja Cat","Attention",FALSE,"17",10,3
+2023-07-10,20,"J Hus Feat. Drake","Who Told You",FALSE,"20",20,2
 2023-07-03,1,"Dave, Central Cee","Sprinter",FALSE,"1",1,4
 2023-07-03,2,"Luke Combs","Fast Car",FALSE,"2",2,13
 2023-07-03,3,"David Kushner","Daylight",FALSE,"3",3,11
