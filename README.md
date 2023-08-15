@@ -7,7 +7,7 @@ Full ARIA chart data compiled by Casey Briggs and used in the the following ABC 
 
 We have checked this data set for errors sufficient for ABC reporting purposes, but neither I nor the ABC take responsibility for any issues that arise from further use of the data and you should satisfy yourself that it is suitable for your purposes before using.
 
-It is possible that some errors in artist location data have snuck through. If you discover an error please file an issue or [get in touch](https://www.caseybriggs.com/). This data should update weekly but I am not actively monitoring it. 
+It is possible that some errors in artist location data have snuck through. If you discover an error please file an issue or [get in touch](https://www.caseybriggs.com/). This data updates weekly on Tuesdays. 
 
 This repository contains three csv files:
 
