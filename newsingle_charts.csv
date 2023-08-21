@@ -1,4 +1,24 @@
 "chart_date","rank","artist","title","aus_flag","last_week","peak","weeks_in"
+2023-08-21,1,"Billie Eilish","What Was I Made For?",FALSE,"1",1,5
+2023-08-21,2,"Dave, Central Cee","Sprinter",FALSE,"2",1,11
+2023-08-21,3,"Dua Lipa","Dance The Night",FALSE,"3",3,12
+2023-08-21,4,"Olivia Rodrigo","Vampire",FALSE,"5",1,7
+2023-08-21,5,"Doja Cat","Paint The Town Red",FALSE,"7",5,2
+2023-08-21,6,"Nicki Minaj, Ice Spice & Aqua","Barbie World",FALSE,"4",3,8
+2023-08-21,7,"Olivia Rodrigo","bad idea right?",FALSE,"–",7,1
+2023-08-21,8,"Gunna","F*kumean",FALSE,"6",4,7
+2023-08-21,9,"The Weeknd Feat. Playboi Carti, Madonna","Popular",FALSE,"8",5,11
+2023-08-21,10,"Jung Kook Feat. Latto","Seven",FALSE,"10",2,5
+2023-08-21,11,"Travis Scott Feat. SZA & Future","Telekinesis",FALSE,"11",11,2
+2023-08-21,12,"Charli XCX","Speed Drive",FALSE,"12",12,3
+2023-08-21,13,"Travis Scott Feat. Drake","Meltdown",FALSE,"9",6,3
+2023-08-21,14,"Peggy Gou","(It Goes Like) Nanana",FALSE,"17",14,3
+2023-08-21,15,"Troye Sivan","Rush",TRUE,"15",8,5
+2023-08-21,16,"Fred again.. & Obongjayar","adore u",FALSE,"–",16,1
+2023-08-21,17,"Lil Durk Feat. J. Cole","All My Life",FALSE,"16",4,14
+2023-08-21,18,"NewJeans","Super Shy",FALSE,"14",10,6
+2023-08-21,19,"Ed Sheeran Feat. Luke Combs","Life Goes On",FALSE,"20",10,5
+2023-08-21,20,"Hooligan Hefs","And We",TRUE,"18",18,3
 2023-08-14,1,"Billie Eilish","What Was I Made For?",FALSE,"1",1,4
 2023-08-14,2,"Dave, Central Cee","Sprinter",FALSE,"2",1,10
 2023-08-14,3,"Dua Lipa","Dance The Night",FALSE,"4",3,11
