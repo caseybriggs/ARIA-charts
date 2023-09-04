@@ -1,4 +1,24 @@
 "chart_date","rank","artist","title","aus_flag","last_week","peak","weeks_in"
+2023-09-04,1,"Doja Cat","Paint The Town Red",FALSE,"1",1,4
+2023-09-04,2,"Dave, Central Cee","Sprinter",FALSE,"2",1,13
+2023-09-04,3,"Dua Lipa","Dance The Night",FALSE,"3",3,14
+2023-09-04,4,"Olivia Rodrigo","Vampire",FALSE,"5",1,9
+2023-09-04,5,"Billie Eilish","What Was I Made For?",FALSE,"4",1,7
+2023-09-04,6,"The Weeknd Feat. Playboi Carti, Madonna","Popular",FALSE,"8",5,13
+2023-09-04,7,"Gunna","F*kumean",FALSE,"7",4,9
+2023-09-04,8,"Miley Cyrus","Used To Be Young",FALSE,"–",8,1
+2023-09-04,9,"Nicki Minaj, Ice Spice & Aqua","Barbie World",FALSE,"6",3,10
+2023-09-04,10,"Oliver Anthony Music","Rich Men North of Richmond",FALSE,"9",9,2
+2023-09-04,11,"Zach Bryan Feat. Kacey Musgraves","I Remember Everything",FALSE,"–",11,1
+2023-09-04,12,"Jung Kook Feat. Latto","Seven",FALSE,"11",2,7
+2023-09-04,13,"Olivia Rodrigo","bad idea right?",FALSE,"10",7,3
+2023-09-04,14,"Selena Gomez","Single Soon",FALSE,"–",14,1
+2023-09-04,15,"Casso x Raye x D-Block Europe","Prada",FALSE,"20",15,2
+2023-09-04,16,"Troye Sivan","Rush",TRUE,"12",8,7
+2023-09-04,17,"Peggy Gou","(It Goes Like) Nanana",FALSE,"15",14,5
+2023-09-04,18,"Travis Scott Feat. SZA & Future","Telekinesis",FALSE,"13",11,4
+2023-09-04,19,"Charli XCX","Speed Drive",FALSE,"14",12,5
+2023-09-04,20,"Zach Bryan Feat. The War and Treaty","Hey Driver",FALSE,"–",20,1
 2023-08-28,1,"Doja Cat","Paint The Town Red",FALSE,"5",1,3
 2023-08-28,2,"Dave, Central Cee","Sprinter",FALSE,"2",1,12
 2023-08-28,3,"Dua Lipa","Dance The Night",FALSE,"3",3,13
