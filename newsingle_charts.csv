@@ -1,4 +1,24 @@
 "chart_date","rank","artist","title","aus_flag","last_week","peak","weeks_in"
+2023-09-18,1,"Doja Cat","Paint The Town Red",FALSE,"1",1,6
+2023-09-18,2,"Olivia Rodrigo","Vampire",FALSE,"4",1,11
+2023-09-18,3,"Olivia Rodrigo","bad idea right?",FALSE,"14",3,5
+2023-09-18,4,"Olivia Rodrigo","Get Him Back!",FALSE,"–",4,1
+2023-09-18,5,"Dave, Central Cee","Sprinter",FALSE,"3",1,15
+2023-09-18,6,"Dua Lipa","Dance The Night",FALSE,"2",2,16
+2023-09-18,7,"Zach Bryan Feat. Kacey Musgraves","I Remember Everything",FALSE,"7",7,3
+2023-09-18,8,"The Weeknd Feat. Playboi Carti, Madonna","Popular",FALSE,"5",5,15
+2023-09-18,9,"Billie Eilish","What Was I Made For?",FALSE,"6",1,9
+2023-09-18,10,"Casso x Raye x D-Block Europe","Prada",FALSE,"11",10,4
+2023-09-18,11,"Gunna","F*kumean",FALSE,"8",4,11
+2023-09-18,12,"Nicki Minaj, Ice Spice & Aqua","Barbie World",FALSE,"9",3,12
+2023-09-18,13,"Kenya Grace","Strangers",FALSE,"18",13,2
+2023-09-18,14,"Miley Cyrus","Used To Be Young",FALSE,"12",8,3
+2023-09-18,15,"Oliver Anthony Music","Rich Men North of Richmond",FALSE,"10",9,4
+2023-09-18,16,"Troye Sivan","Rush",TRUE,"13",8,9
+2023-09-18,17,"Jung Kook Feat. Latto","Seven",FALSE,"15",2,9
+2023-09-18,18,"Peggy Gou","(It Goes Like) Nanana",FALSE,"16",14,7
+2023-09-18,19,"V","Slow Dancing",FALSE,"–",19,1
+2023-09-18,20,"Charli XCX","Speed Drive",FALSE,"21",12,6
 2023-09-11,1,"Doja Cat","Paint The Town Red",FALSE,"1",1,5
 2023-09-11,2,"Dua Lipa","Dance The Night",FALSE,"3",2,15
 2023-09-11,3,"Dave, Central Cee","Sprinter",FALSE,"2",1,14
