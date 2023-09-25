@@ -1,4 +1,24 @@
 "chart_date","rank","artist","title","aus_flag","last_week","peak","weeks_in"
+2023-09-25,1,"Doja Cat","Paint The Town Red",FALSE,"1",1,7
+2023-09-25,2,"Olivia Rodrigo","Vampire",FALSE,"2",1,12
+2023-09-25,3,"Tate McRae","Greedy",FALSE,"–",3,1
+2023-09-25,4,"Kenya Grace","Strangers",FALSE,"13",4,3
+2023-09-25,5,"Casso x Raye x D-Block Europe","Prada",FALSE,"10",5,5
+2023-09-25,6,"Dave, Central Cee","Sprinter",FALSE,"5",1,16
+2023-09-25,7,"Zach Bryan Feat. Kacey Musgraves","I Remember Everything",FALSE,"7",7,4
+2023-09-25,8,"Drake Feat. SZA","Slime You Out",FALSE,"–",8,1
+2023-09-25,9,"Olivia Rodrigo","bad idea right?",FALSE,"3",3,6
+2023-09-25,10,"Olivia Rodrigo","Get Him Back!",FALSE,"4",4,2
+2023-09-25,11,"The Weeknd Feat. Playboi Carti, Madonna","Popular",FALSE,"8",5,16
+2023-09-25,12,"Billie Eilish","What Was I Made For?",FALSE,"9",1,10
+2023-09-25,13,"Gunna","F*kumean",FALSE,"11",4,12
+2023-09-25,14,"Nicki Minaj, Ice Spice & Aqua","Barbie World",FALSE,"12",3,13
+2023-09-25,15,"Troye Sivan","Rush",TRUE,"16",8,10
+2023-09-25,16,"Oliver Anthony Music","Rich Men North of Richmond",FALSE,"15",9,5
+2023-09-25,17,"Miley Cyrus","Used To Be Young",FALSE,"14",8,4
+2023-09-25,18,"Jung Kook Feat. Latto","Seven",FALSE,"17",2,10
+2023-09-25,19,"Peggy Gou","(It Goes Like) Nanana",FALSE,"18",14,8
+2023-09-25,20,"Charli XCX","Speed Drive",FALSE,"20",12,7
 2023-09-18,1,"Doja Cat","Paint The Town Red",FALSE,"1",1,6
 2023-09-18,2,"Olivia Rodrigo","Vampire",FALSE,"4",1,11
 2023-09-18,3,"Olivia Rodrigo","bad idea right?",FALSE,"14",3,5
