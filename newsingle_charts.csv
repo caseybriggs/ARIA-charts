@@ -1,4 +1,24 @@
 "chart_date","rank","artist","title","aus_flag","last_week","peak","weeks_in"
+2023-10-09,1,"Doja Cat","Paint The Town Red",FALSE,"1",1,9
+2023-10-09,2,"Tate McRae","Greedy",FALSE,"3",2,3
+2023-10-09,3,"Kenya Grace","Strangers",FALSE,"2",2,5
+2023-10-09,4,"Casso x Raye x D-Block Europe","Prada",FALSE,"4",4,7
+2023-10-09,5,"Jung Kook Feat. Jack Harlow","3D",FALSE,"–",5,1
+2023-10-09,6,"Olivia Rodrigo","Vampire",FALSE,"5",1,14
+2023-10-09,7,"Zach Bryan Feat. Kacey Musgraves","I Remember Everything",FALSE,"6",6,6
+2023-10-09,8,"Gunna","F*kumean",FALSE,"10",4,14
+2023-10-09,9,"Billie Eilish","What Was I Made For?",FALSE,"9",1,12
+2023-10-09,10,"Olivia Rodrigo","bad idea right?",FALSE,"7",3,8
+2023-10-09,11,"Troye Sivan","Got Me Started",TRUE,"13",11,2
+2023-10-09,12,"Olivia Rodrigo","Get Him Back!",FALSE,"8",4,4
+2023-10-09,13,"Nicki Minaj, Ice Spice & Aqua","Barbie World",FALSE,"11",3,15
+2023-10-09,14,"Tyla","Water",FALSE,"18",14,2
+2023-10-09,15,"Troye Sivan","Rush",TRUE,"12",8,12
+2023-10-09,16,"Jung Kook Feat. Latto","Seven",FALSE,"17",2,12
+2023-10-09,17,"Peggy Gou","(It Goes Like) Nanana",FALSE,"20",14,10
+2023-10-09,18,"Oliver Anthony Music","Rich Men North of Richmond",FALSE,"16",9,7
+2023-10-09,19,"Doja Cat","Agora Hills",FALSE,"15",15,2
+2023-10-09,20,"Miley Cyrus","Used To Be Young",FALSE,"19",8,6
 2023-10-02,1,"Doja Cat","Paint The Town Red",FALSE,"1",1,8
 2023-10-02,2,"Kenya Grace","Strangers",FALSE,"4",2,4
 2023-10-02,3,"Tate McRae","Greedy",FALSE,"3",3,2
