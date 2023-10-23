@@ -1,4 +1,24 @@
 "chart_date","rank","artist","title","aus_flag","last_week","peak","weeks_in"
+2023-10-23,1,"Doja Cat","Paint The Town Red",FALSE,"1",1,11
+2023-10-23,2,"Tate McRae","Greedy",FALSE,"2",2,5
+2023-10-23,3,"Casso x Raye x D-Block Europe","Prada",FALSE,"5",3,9
+2023-10-23,4,"Kenya Grace","Strangers",FALSE,"3",2,7
+2023-10-23,5,"Zach Bryan Feat. Kacey Musgraves","I Remember Everything",FALSE,"7",5,8
+2023-10-23,6,"Tyla","Water",FALSE,"10",6,4
+2023-10-23,7,"Olivia Rodrigo","Vampire",FALSE,"9",1,16
+2023-10-23,8,"Drake Feat. J. Cole","First Person Shooter",FALSE,"4",4,2
+2023-10-23,9,"Drake Feat. Yeat","IDGAF",FALSE,"6",6,2
+2023-10-23,10,"Drake Feat. Sexyy Red & SZA","Rich Baby Daddy",FALSE,"–",10,1
+2023-10-23,11,"Mitski","My Love Mine All Mine",FALSE,"13",11,2
+2023-10-23,12,"Billie Eilish","What Was I Made For?",FALSE,"11",1,14
+2023-10-23,13,"Troye Sivan","Rush",TRUE,"16",8,14
+2023-10-23,14,"Troye Sivan","Got Me Started",TRUE,"17",11,4
+2023-10-23,15,"Troye Sivan","One Of Your Girls",TRUE,"–",15,1
+2023-10-23,16,"Doja Cat","Agora Hills",FALSE,"20",15,4
+2023-10-23,17,"Olivia Rodrigo","Get Him Back!",FALSE,"12",4,6
+2023-10-23,18,"Olivia Rodrigo","bad idea right?",FALSE,"14",3,10
+2023-10-23,19,"Oliver Anthony Music","Rich Men North of Richmond",FALSE,"19",9,9
+2023-10-23,20,"Jung Kook Feat. Latto","Seven",FALSE,"21",2,13
 2023-10-16,1,"Doja Cat","Paint The Town Red",FALSE,"1",1,10
 2023-10-16,2,"Tate McRae","Greedy",FALSE,"2",2,4
 2023-10-16,3,"Kenya Grace","Strangers",FALSE,"3",2,6
