@@ -1,4 +1,24 @@
 "chart_date","rank","artist","title","aus_flag","last_week","peak","weeks_in"
+2023-10-30,1,"Doja Cat","Paint The Town Red",FALSE,"1",1,12
+2023-10-30,2,"Tate McRae","Greedy",FALSE,"2",2,6
+2023-10-30,3,"Casso x Raye x D-Block Europe","Prada",FALSE,"3",3,10
+2023-10-30,4,"Kenya Grace","Strangers",FALSE,"4",2,8
+2023-10-30,5,"Tyla","Water",FALSE,"6",5,5
+2023-10-30,6,"Zach Bryan Feat. Kacey Musgraves","I Remember Everything",FALSE,"5",5,9
+2023-10-30,7,"The Kid Laroi, Jung Kook, Central Cee","Too Much",TRUE,"–",7,1
+2023-10-30,8,"Drake Feat. Sexyy Red & SZA","Rich Baby Daddy",FALSE,"10",8,2
+2023-10-30,9,"Doja Cat","Agora Hills",FALSE,"16",9,5
+2023-10-30,10,"Mitski","My Love Mine All Mine",FALSE,"11",10,3
+2023-10-30,11,"Troye Sivan","One Of Your Girls",TRUE,"15",11,2
+2023-10-30,12,"Drake Feat. Yeat","IDGAF",FALSE,"9",6,3
+2023-10-30,13,"Drake Feat. J. Cole","First Person Shooter",FALSE,"8",4,3
+2023-10-30,14,"Billie Eilish","What Was I Made For?",FALSE,"12",1,15
+2023-10-30,15,"Troye Sivan","Got Me Started",TRUE,"14",11,5
+2023-10-30,16,"Paul Russell","Lil Boo Thang",FALSE,"24",16,1
+2023-10-30,17,"Troye Sivan","Rush",TRUE,"13",8,15
+2023-10-30,18,"Olivia Rodrigo","Get Him Back!",FALSE,"17",4,7
+2023-10-30,19,"Olivia Rodrigo","bad idea right?",FALSE,"18",3,11
+2023-10-30,20,"Jung Kook Feat. Latto","Seven",FALSE,"20",2,14
 2023-10-23,1,"Doja Cat","Paint The Town Red",FALSE,"1",1,11
 2023-10-23,2,"Tate McRae","Greedy",FALSE,"2",2,5
 2023-10-23,3,"Casso x Raye x D-Block Europe","Prada",FALSE,"5",3,9
