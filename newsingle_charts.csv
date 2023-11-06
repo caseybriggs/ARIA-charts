@@ -1,4 +1,24 @@
 "chart_date","rank","artist","title","aus_flag","last_week","peak","weeks_in"
+2023-11-06,1,"Taylor Swift","Is It Over Now? (Taylor's Version) [From The Vault]",FALSE,"–",1,1
+2023-11-06,2,"Taylor Swift","Now That We Don't Talk (Taylor's Version) [From The Vault]",FALSE,"–",2,1
+2023-11-06,3,"Taylor Swift","Say Don't Go (Taylor's Version) [From The Vault]",FALSE,"–",3,1
+2023-11-06,4,"Doja Cat","Paint The Town Red",FALSE,"1",1,13
+2023-11-06,5,"Tate McRae","Greedy",FALSE,"2",2,7
+2023-11-06,6,"Casso x Raye x D-Block Europe","Prada",FALSE,"3",3,11
+2023-11-06,7,"Tyla","Water",FALSE,"5",5,6
+2023-11-06,8,"Kenya Grace","Strangers",FALSE,"4",2,9
+2023-11-06,9,"Zach Bryan Feat. Kacey Musgraves","I Remember Everything",FALSE,"6",5,10
+2023-11-06,10,"Drake Feat. Sexyy Red & SZA","Rich Baby Daddy",FALSE,"8",8,3
+2023-11-06,11,"Doja Cat","Agora Hills",FALSE,"9",9,6
+2023-11-06,12,"Mitski","My Love Mine All Mine",FALSE,"10",10,4
+2023-11-06,13,"Troye Sivan","One Of Your Girls",TRUE,"11",11,3
+2023-11-06,14,"The Kid Laroi, Jung Kook, Central Cee","Too Much",TRUE,"7",7,2
+2023-11-06,15,"Paul Russell","Lil Boo Thang",FALSE,"16",15,2
+2023-11-06,16,"Billie Eilish","What Was I Made For?",FALSE,"14",1,16
+2023-11-06,17,"Drake Feat. Yeat","IDGAF",FALSE,"12",6,4
+2023-11-06,18,"Troye Sivan","Rush",TRUE,"17",8,16
+2023-11-06,19,"Drake Feat. J. Cole","First Person Shooter",FALSE,"13",4,4
+2023-11-06,20,"Olivia Rodrigo","Get Him Back!",FALSE,"18",4,8
 2023-10-30,1,"Doja Cat","Paint The Town Red",FALSE,"1",1,12
 2023-10-30,2,"Tate McRae","Greedy",FALSE,"2",2,6
 2023-10-30,3,"Casso x Raye x D-Block Europe","Prada",FALSE,"3",3,10
