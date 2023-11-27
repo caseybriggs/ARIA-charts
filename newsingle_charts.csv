@@ -1,4 +1,24 @@
 "chart_date","rank","artist","title","aus_flag","last_week","peak","weeks_in"
+2023-11-27,1,"Jack Harlow","Lovin On Me",FALSE,"1",1,2
+2023-11-27,2,"Tate McRae","Greedy",FALSE,"2",2,10
+2023-11-27,3,"Doja Cat","Paint The Town Red",FALSE,"3",1,16
+2023-11-27,4,"Casso x Raye x D-Block Europe","Prada",FALSE,"5",3,14
+2023-11-27,5,"Taylor Swift","Is It Over Now? (Taylor's Version) [From The Vault]",FALSE,"4",1,4
+2023-11-27,6,"Zach Bryan Feat. Kacey Musgraves","I Remember Everything",FALSE,"8",5,13
+2023-11-27,7,"Kenya Grace","Strangers",FALSE,"9",2,12
+2023-11-27,8,"Dua Lipa","Houdini",FALSE,"6",6,2
+2023-11-27,9,"Doja Cat","Agora Hills",FALSE,"10",9,9
+2023-11-27,10,"Tate McRae","Exes",FALSE,"–",10,1
+2023-11-27,11,"Drake Feat. Sexyy Red & SZA","Rich Baby Daddy",FALSE,"11",8,6
+2023-11-27,12,"Paul Russell","Lil Boo Thang",FALSE,"13",12,5
+2023-11-27,13,"Mitski","My Love Mine All Mine",FALSE,"14",10,7
+2023-11-27,14,"Olivia Rodrigo","Can't Catch Me Now",FALSE,"28",14,1
+2023-11-27,15,"Taylor Swift","Now That We Don't Talk (Taylor's Version) [From The Vault]",FALSE,"12",2,4
+2023-11-27,16,"Troye Sivan","Got Me Started",TRUE,"18",11,8
+2023-11-27,17,"Troye Sivan","One Of Your Girls",TRUE,"15",11,6
+2023-11-27,18,"The Kid Laroi","Bleed",TRUE,"19",17,3
+2023-11-27,19,"Drake Feat. J. Cole","First Person Shooter",FALSE,"29",4,5
+2023-11-27,20,"Drake Feat. Yeat","IDGAF",FALSE,"23",6,5
 2023-11-20,1,"Jack Harlow","Lovin On Me",FALSE,"–",1,1
 2023-11-20,2,"Tate McRae","Greedy",FALSE,"3",2,9
 2023-11-20,3,"Doja Cat","Paint The Town Red",FALSE,"2",1,15
