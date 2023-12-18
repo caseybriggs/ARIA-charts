@@ -1,4 +1,24 @@
 "chart_date","rank","artist","title","aus_flag","last_week","peak","weeks_in"
+2023-12-18,1,"Jack Harlow","Lovin On Me",FALSE,"1",1,5
+2023-12-18,2,"Tate McRae","Greedy",FALSE,"2",2,13
+2023-12-18,3,"Zach Bryan Feat. Kacey Musgraves","I Remember Everything",FALSE,"3",3,16
+2023-12-18,4,"Kenya Grace","Strangers",FALSE,"4",2,15
+2023-12-18,5,"Tate McRae","Exes",FALSE,"9",5,4
+2023-12-18,6,"Taylor Swift","Is It Over Now? (Taylor's Version) [From The Vault]",FALSE,"5",1,7
+2023-12-18,7,"Drake Feat. Sexyy Red & SZA","Rich Baby Daddy",FALSE,"7",7,9
+2023-12-18,8,"Paul Russell","Lil Boo Thang",FALSE,"10",8,8
+2023-12-18,9,"Dua Lipa","Houdini",FALSE,"6",6,5
+2023-12-18,10,"Doja Cat","Agora Hills",FALSE,"8",8,12
+2023-12-18,11,"Mitski","My Love Mine All Mine",FALSE,"11",10,10
+2023-12-18,12,"Zach Bryan Feat. The War and Treaty","Hey Driver",FALSE,"20",12,3
+2023-12-18,13,"Olivia Rodrigo","Can't Catch Me Now",FALSE,"12",12,4
+2023-12-18,14,"Fred again.. & Baby Keem","leavemealone",FALSE,"–",14,1
+2023-12-18,15,"Tate McRae","Run For The Hills",FALSE,"–",15,1
+2023-12-18,16,"Troye Sivan","Got Me Started",TRUE,"14",11,11
+2023-12-18,17,"Troye Sivan","One Of Your Girls",TRUE,"15",11,9
+2023-12-18,18,"Jessie Murph Feat. Jelly Roll","Wild Ones",FALSE,"16",16,3
+2023-12-18,19,"Dom Dolla","Saving Up",TRUE,"19",19,2
+2023-12-18,20,"The Kid Laroi","Bleed",TRUE,"13",13,6
 2023-12-11,1,"Jack Harlow","Lovin On Me",FALSE,"1",1,4
 2023-12-11,2,"Tate McRae","Greedy",FALSE,"2",2,12
 2023-12-11,3,"Zach Bryan Feat. Kacey Musgraves","I Remember Everything",FALSE,"4",3,15
