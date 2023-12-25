@@ -1,4 +1,24 @@
 "chart_date","rank","artist","title","aus_flag","last_week","peak","weeks_in"
+2023-12-25,1,"Jack Harlow","Lovin On Me",FALSE,"1",1,6
+2023-12-25,2,"Tate McRae","Greedy",FALSE,"2",2,14
+2023-12-25,3,"Kenya Grace","Strangers",FALSE,"4",2,16
+2023-12-25,4,"Taylor Swift","Is It Over Now? (Taylor's Version) [From The Vault]",FALSE,"6",1,8
+2023-12-25,5,"Paul Russell","Lil Boo Thang",FALSE,"8",5,9
+2023-12-25,6,"Drake Feat. Sexyy Red & SZA","Rich Baby Daddy",FALSE,"7",6,10
+2023-12-25,7,"Dua Lipa","Houdini",FALSE,"9",6,6
+2023-12-25,8,"Tate McRae","Exes",FALSE,"5",5,5
+2023-12-25,9,"Doja Cat","Agora Hills",FALSE,"10",8,13
+2023-12-25,10,"Mitski","My Love Mine All Mine",FALSE,"11",10,11
+2023-12-25,11,"Fred again.. & Baby Keem","leavemealone",FALSE,"14",11,2
+2023-12-25,12,"Olivia Rodrigo","Can't Catch Me Now",FALSE,"13",12,5
+2023-12-25,13,"Troye Sivan","Got Me Started",TRUE,"16",11,12
+2023-12-25,14,"Nicki Minaj","FTCU",FALSE,"–",14,1
+2023-12-25,15,"Dom Dolla","Saving Up",TRUE,"19",15,3
+2023-12-25,16,"Troye Sivan","One Of Your Girls",TRUE,"17",11,10
+2023-12-25,17,"Jessie Murph Feat. Jelly Roll","Wild Ones",FALSE,"18",16,4
+2023-12-25,18,"Tate McRae","run for the hills",FALSE,"15",15,2
+2023-12-25,19,"Taylor Swift","Now That We Don't Talk (Taylor's Version) [From The Vault]",FALSE,"21",2,7
+2023-12-25,20,"The Kid Laroi","Bleed",TRUE,"20",13,7
 2023-12-18,1,"Jack Harlow","Lovin On Me",FALSE,"1",1,5
 2023-12-18,2,"Tate McRae","Greedy",FALSE,"2",2,13
 2023-12-18,3,"Zach Bryan Feat. Kacey Musgraves","I Remember Everything",FALSE,"3",3,16
