@@ -1,4 +1,24 @@
 "chart_date","rank","artist","title","aus_flag","last_week","peak","weeks_in"
+2024-01-29,1,"Jack Harlow","Lovin On Me",FALSE,"1",1,11
+2024-01-29,2,"Ariana Grande","Yes, And?",FALSE,"2",2,2
+2024-01-29,3,"Dua Lipa","Houdini",FALSE,"3",2,11
+2024-01-29,4,"Benson Boone","Beautiful Things",FALSE,"–",4,1
+2024-01-29,5,"Drake Feat. Sexyy Red & SZA","Rich Baby Daddy",FALSE,"4",3,15
+2024-01-29,6,"21 Savage","Redrum",FALSE,"5",5,2
+2024-01-29,7,"Fred again.. & Baby Keem","leavemealone",FALSE,"6",6,7
+2024-01-29,8,"Flo Milli","Never Lose Me",FALSE,"11",8,3
+2024-01-29,9,"Tate McRae","Exes",FALSE,"8",5,10
+2024-01-29,10,"Taylor Swift","Is It Over Now? (Taylor's Version) [From The Vault]",FALSE,"7",1,13
+2024-01-29,11,"Dom Dolla","Saving Up",TRUE,"14",11,8
+2024-01-29,12,"Michael Marcagi","Scared To Start",FALSE,"17",12,2
+2024-01-29,13,"Noah Kahan, Sam Fender","Homesick",FALSE,"–",13,1
+2024-01-29,14,"Nicki Minaj","FTCU",FALSE,"12",8,6
+2024-01-29,15,"Jessie Murph Feat. Jelly Roll","Wild Ones",FALSE,"16",12,9
+2024-01-29,16,"21 Savage, Travis Scott, Metro Boomin","Née-Nah",FALSE,"9",9,2
+2024-01-29,17,"David Kushner","Skin and Bones",FALSE,"–",17,1
+2024-01-29,18,"Olivia Rodrigo","Can't Catch Me Now",FALSE,"13",9,10
+2024-01-29,19,"G Flip","Cruel Summer",TRUE,"–",19,1
+2024-01-29,20,"Chris Brown","Angel Numbers / Ten Toes",FALSE,"18",14,4
 2024-01-22,1,"Jack Harlow","Lovin On Me",FALSE,"1",1,10
 2024-01-22,2,"Ariana Grande","Yes, And?",FALSE,"–",2,1
 2024-01-22,3,"Dua Lipa","Houdini",FALSE,"2",2,10
