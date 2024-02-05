@@ -1,4 +1,24 @@
 "chart_date","rank","artist","title","aus_flag","last_week","peak","weeks_in"
+2024-02-05,1,"Jack Harlow","Lovin On Me",FALSE,"1",1,12
+2024-02-05,2,"Benson Boone","Beautiful Things",FALSE,"4",2,2
+2024-02-05,3,"Ariana Grande","Yes, And?",FALSE,"2",2,3
+2024-02-05,4,"Dua Lipa","Houdini",FALSE,"3",2,12
+2024-02-05,5,"21 Savage","Redrum",FALSE,"6",5,3
+2024-02-05,6,"Flo Milli","Never Lose Me",FALSE,"8",6,4
+2024-02-05,7,"Tate McRae","Exes",FALSE,"9",5,11
+2024-02-05,8,"Michael Marcagi","Scared To Start",FALSE,"12",8,3
+2024-02-05,9,"Fred again.. & Baby Keem","leavemealone",FALSE,"7",6,8
+2024-02-05,10,"YG Marley","Praise Jah In the Moonlight",FALSE,"–",10,1
+2024-02-05,11,"Taylor Swift","Is It Over Now? (Taylor's Version) [From The Vault]",FALSE,"10",1,14
+2024-02-05,12,"Megan Thee Stallion","Hiss",FALSE,"–",12,1
+2024-02-05,13,"Royel Otis","Murder on the Dance Floor - triple j Like A Version",TRUE,"–",13,1
+2024-02-05,14,"Ice Spice","Think U The S**t (F**t)",FALSE,"–",14,1
+2024-02-05,15,"Nicki Minaj","FTCU",FALSE,"14",8,7
+2024-02-05,16,"Olivia Rodrigo","Can't Catch Me Now",FALSE,"18",9,11
+2024-02-05,17,"Noah Kahan & Sam Fender","Homesick",FALSE,"13",13,2
+2024-02-05,18,"Chris Brown","Angel Numbers / Ten Toes",FALSE,"20",14,5
+2024-02-05,19,"Troye Sivan","One Of Your Girls",TRUE,"22",10,15
+2024-02-05,20,"Justin Timberlake","Selfish",FALSE,"–",20,1
 2024-01-29,1,"Jack Harlow","Lovin On Me",FALSE,"1",1,11
 2024-01-29,2,"Ariana Grande","Yes, And?",FALSE,"2",2,2
 2024-01-29,3,"Dua Lipa","Houdini",FALSE,"3",2,11
