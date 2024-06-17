@@ -1,4 +1,24 @@
 "chart_date","rank","artist","title","aus_flag","last_week","peak","weeks_in"
+2024-06-17,1,"Eminem","Houdini",FALSE,"1",1,2
+2024-06-17,2,"Sabrina Carpenter","Espresso",FALSE,"5",1,9
+2024-06-17,3,"Shaboozey","A Bar Song (Tipsy)",FALSE,"3",2,8
+2024-06-17,4,"Sabrina Carpenter","Please Please Please",FALSE,"–",4,1
+2024-06-17,5,"Billie Eilish","Birds Of A Feather",FALSE,"6",5,4
+2024-06-17,6,"Post Malone Feat. Morgan Wallen","I Had Some Help",FALSE,"2",1,5
+2024-06-17,7,"Tommy Richman","Million Dollar Baby",FALSE,"4",1,7
+2024-06-17,8,"Billie Eilish","Lunch",FALSE,"7",5,4
+2024-06-17,9,"Hozier","Too Sweet",FALSE,"9",1,12
+2024-06-17,10,"Central Cee Feat. Lil Baby","Band4Band",FALSE,"8",8,3
+2024-06-17,11,"Myles Smith","Stargazing",FALSE,"14",11,5
+2024-06-17,12,"Zach Bryan","Pink Skies",FALSE,"11",11,3
+2024-06-17,13,"Kendrick Lamar","Not Like Us",FALSE,"10",5,6
+2024-06-17,14,"Taylor Swift Feat. Post Malone","Fortnight",FALSE,"12",1,8
+2024-06-17,15,"Artemas","I like the way you kiss me",FALSE,"13",3,12
+2024-06-17,16,"Billie Eilish","Chihiro",FALSE,"15",7,4
+2024-06-17,17,"Chappell Roan","Good Luck, Babe!",FALSE,"20",17,4
+2024-06-17,18,"Benson Boone","Slow It Down",FALSE,"19",11,11
+2024-06-17,19,"Ariana Grande","We Can't Be Friends (Wait For Your Love)",FALSE,"16",2,14
+2024-06-17,20,"Mark Ambor","Belong Together",FALSE,"18",12,11
 2024-06-10,1,"Eminem","Houdini",FALSE,"–",1,1
 2024-06-10,2,"Post Malone Feat. Morgan Wallen","I Had Some Help",FALSE,"3",1,4
 2024-06-10,3,"Shaboozey","A Bar Song (Tipsy)",FALSE,"2",2,7
