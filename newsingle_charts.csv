@@ -1,4 +1,24 @@
 "chart_date","rank","artist","title","aus_flag","last_week","peak","weeks_in"
+2024-07-08,1,"Shaboozey","A Bar Song (Tipsy)",FALSE,"2",1,11
+2024-07-08,2,"Sabrina Carpenter","Espresso",FALSE,"3",1,12
+2024-07-08,3,"Sabrina Carpenter","Please Please Please",FALSE,"1",1,4
+2024-07-08,4,"Billie Eilish","Birds Of A Feather",FALSE,"5",4,7
+2024-07-08,5,"Post Malone Feat. Morgan Wallen","I Had Some Help",FALSE,"4",1,8
+2024-07-08,6,"Tommy Richman","Million Dollar Baby",FALSE,"6",1,10
+2024-07-08,7,"Eminem","Houdini",FALSE,"7",1,5
+2024-07-08,8,"Kendrick Lamar","Not Like Us",FALSE,"8",5,9
+2024-07-08,9,"Chappell Roan","Good Luck, Babe!",FALSE,"10",9,7
+2024-07-08,10,"Hozier","Too Sweet",FALSE,"9",1,15
+2024-07-08,11,"Myles Smith","Stargazing",FALSE,"11",9,8
+2024-07-08,12,"Taylor Swift Feat. Post Malone","Fortnight",FALSE,"12",1,11
+2024-07-08,13,"Billie Eilish","Lunch",FALSE,"13",5,7
+2024-07-08,14,"Artemas","I like the way you kiss me",FALSE,"14",3,15
+2024-07-08,15,"Zach Bryan","Pink Skies",FALSE,"16",11,6
+2024-07-08,16,"Tommy Richman","Devil Is A Lie",FALSE,"20",16,2
+2024-07-08,17,"The Kid Laroi","Girls",TRUE,"–",17,1
+2024-07-08,18,"Central Cee Feat. Lil Baby","Band4Band",FALSE,"15",8,6
+2024-07-08,19,"Benson Boone","Slow It Down",FALSE,"17",11,14
+2024-07-08,20,"Post Malone Feat. Blake Shelton","Pour Me A Drink",FALSE,"22",20,1
 2024-07-01,1,"Sabrina Carpenter","Please Please Please",FALSE,"1",1,3
 2024-07-01,2,"Shaboozey","A Bar Song (Tipsy)",FALSE,"3",2,10
 2024-07-01,3,"Sabrina Carpenter","Espresso",FALSE,"2",1,11
