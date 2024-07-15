@@ -1,4 +1,24 @@
 "chart_date","rank","artist","title","aus_flag","last_week","peak","weeks_in"
+2024-07-15,1,"Shaboozey","A Bar Song (Tipsy)",FALSE,"1",1,12
+2024-07-15,2,"Sabrina Carpenter","Espresso",FALSE,"2",1,13
+2024-07-15,3,"Sabrina Carpenter","Please Please Please",FALSE,"3",1,5
+2024-07-15,4,"Billie Eilish","Birds Of A Feather",FALSE,"4",4,8
+2024-07-15,5,"Kendrick Lamar","Not Like Us",FALSE,"8",5,10
+2024-07-15,6,"Post Malone Feat. Morgan Wallen","I Had Some Help",FALSE,"5",1,9
+2024-07-15,7,"Tommy Richman","Million Dollar Baby",FALSE,"6",1,11
+2024-07-15,8,"Chappell Roan","Good Luck, Babe!",FALSE,"9",8,8
+2024-07-15,9,"Eminem","Houdini",FALSE,"7",1,6
+2024-07-15,10,"Hozier","Too Sweet",FALSE,"10",1,16
+2024-07-15,11,"Myles Smith","Stargazing",FALSE,"11",9,9
+2024-07-15,12,"Taylor Swift Feat. Post Malone","Fortnight",FALSE,"12",1,12
+2024-07-15,13,"Zach Bryan","Pink Skies",FALSE,"15",11,7
+2024-07-15,14,"Tommy Richman","Devil Is A Lie",FALSE,"16",14,3
+2024-07-15,15,"The Kid Laroi","Girls",TRUE,"17",15,2
+2024-07-15,16,"Billie Eilish","Lunch",FALSE,"13",5,8
+2024-07-15,17,"Artemas","I like the way you kiss me",FALSE,"14",3,16
+2024-07-15,18,"Central Cee Feat. Lil Baby","Band4Band",FALSE,"18",8,7
+2024-07-15,19,"Benson Boone","Slow It Down",FALSE,"19",11,15
+2024-07-15,20,"Morgan Wallen","Lies Lies Lies",FALSE,"–",20,1
 2024-07-08,1,"Shaboozey","A Bar Song (Tipsy)",FALSE,"2",1,11
 2024-07-08,2,"Sabrina Carpenter","Espresso",FALSE,"3",1,12
 2024-07-08,3,"Sabrina Carpenter","Please Please Please",FALSE,"1",1,4
