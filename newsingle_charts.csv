@@ -1,4 +1,24 @@
 "chart_date","rank","artist","title","aus_flag","last_week","peak","weeks_in"
+2024-07-22,1,"Shaboozey","A Bar Song (Tipsy)",FALSE,"1",1,13
+2024-07-22,2,"Sabrina Carpenter","Espresso",FALSE,"2",1,14
+2024-07-22,3,"Billie Eilish","Birds Of A Feather",FALSE,"4",3,9
+2024-07-22,4,"Sabrina Carpenter","Please Please Please",FALSE,"3",1,6
+2024-07-22,5,"Post Malone Feat. Morgan Wallen","I Had Some Help",FALSE,"6",1,10
+2024-07-22,6,"Eminem","Houdini",FALSE,"9",1,7
+2024-07-22,7,"Kendrick Lamar","Not Like Us",FALSE,"5",5,11
+2024-07-22,8,"Tommy Richman","Million Dollar Baby",FALSE,"7",1,12
+2024-07-22,9,"Chappell Roan","Good Luck, Babe!",FALSE,"8",8,9
+2024-07-22,10,"Myles Smith","Stargazing",FALSE,"11",9,10
+2024-07-22,11,"Taylor Swift Feat. Post Malone","Fortnight",FALSE,"12",1,13
+2024-07-22,12,"Eminem","Habits",FALSE,"–",12,1
+2024-07-22,13,"Eminem","Renaissance",FALSE,"–",13,1
+2024-07-22,14,"Zach Bryan","Pink Skies",FALSE,"13",11,8
+2024-07-22,15,"The Kid Laroi","Girls",TRUE,"15",15,3
+2024-07-22,16,"Billie Eilish","Lunch",FALSE,"16",5,9
+2024-07-22,17,"Tommy Richman","Devil Is A Lie",FALSE,"14",14,4
+2024-07-22,18,"Central Cee Feat. Lil Baby","Band4Band",FALSE,"18",8,8
+2024-07-22,19,"Morgan Wallen","Lies Lies Lies",FALSE,"20",19,2
+2024-07-22,20,"Taylor Swift","I Can Do It With a Broken Heart",FALSE,"22",6,7
 2024-07-15,1,"Shaboozey","A Bar Song (Tipsy)",FALSE,"1",1,12
 2024-07-15,2,"Sabrina Carpenter","Espresso",FALSE,"2",1,13
 2024-07-15,3,"Sabrina Carpenter","Please Please Please",FALSE,"3",1,5
