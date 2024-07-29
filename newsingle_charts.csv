@@ -1,4 +1,24 @@
 "chart_date","rank","artist","title","aus_flag","last_week","peak","weeks_in"
+2024-07-29,1,"Shaboozey","A Bar Song (Tipsy)",FALSE,"1",1,14
+2024-07-29,2,"Billie Eilish","Birds Of A Feather",FALSE,"3",2,10
+2024-07-29,3,"Sabrina Carpenter","Espresso",FALSE,"2",1,15
+2024-07-29,4,"Post Malone Feat. Morgan Wallen","I Had Some Help",FALSE,"5",1,11
+2024-07-29,5,"Sabrina Carpenter","Please Please Please",FALSE,"4",1,7
+2024-07-29,6,"Kendrick Lamar","Not Like Us",FALSE,"7",5,12
+2024-07-29,7,"Chappell Roan","Good Luck, Babe!",FALSE,"9",7,10
+2024-07-29,8,"Tommy Richman","Million Dollar Baby",FALSE,"8",1,13
+2024-07-29,9,"Eminem","Houdini",FALSE,"6",1,8
+2024-07-29,10,"Myles Smith","Stargazing",FALSE,"10",9,11
+2024-07-29,11,"Taylor Swift Feat. Post Malone","Fortnight",FALSE,"11",1,14
+2024-07-29,12,"Zach Bryan","Pink Skies",FALSE,"14",11,9
+2024-07-29,13,"The Kid Laroi","Girls",TRUE,"15",13,4
+2024-07-29,14,"Billie Eilish","Lunch",FALSE,"16",5,10
+2024-07-29,15,"Tommy Richman","Devil Is A Lie",FALSE,"17",14,5
+2024-07-29,16,"Morgan Wallen","Lies Lies Lies",FALSE,"19",16,3
+2024-07-29,17,"Central Cee Feat. Lil Baby","Band4Band",FALSE,"18",8,9
+2024-07-29,18,"Ice Spice, Central Cee","Did It First",FALSE,"21",18,1
+2024-07-29,19,"Charli XCX","360",FALSE,"22",19,1
+2024-07-29,20,"Dominic Fike","misses",FALSE,"25",20,1
 2024-07-22,1,"Shaboozey","A Bar Song (Tipsy)",FALSE,"1",1,13
 2024-07-22,2,"Sabrina Carpenter","Espresso",FALSE,"2",1,14
 2024-07-22,3,"Billie Eilish","Birds Of A Feather",FALSE,"4",3,9
