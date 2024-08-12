@@ -1,4 +1,24 @@
 "chart_date","rank","artist","title","aus_flag","last_week","peak","weeks_in"
+2024-08-12,1,"Charli XCX Feat. Billie Eilish","Guess",FALSE,"–",1,1
+2024-08-12,2,"Billie Eilish","Birds Of A Feather",FALSE,"2",2,12
+2024-08-12,3,"Post Malone Feat. Morgan Wallen","I Had Some Help",FALSE,"3",1,13
+2024-08-12,4,"Sabrina Carpenter","Please Please Please",FALSE,"5",1,9
+2024-08-12,5,"Kendrick Lamar","Not Like Us",FALSE,"6",5,14
+2024-08-12,6,"Tommy Richman","Million Dollar Baby",FALSE,"7",1,15
+2024-08-12,7,"Myles Smith","Stargazing",FALSE,"8",7,13
+2024-08-12,8,"Hanumankind, Kalmi","Big Dawgs",FALSE,"27",8,1
+2024-08-12,9,"Eminem","Houdini",FALSE,"9",1,10
+2024-08-12,10,"Charli XCX","Apple",FALSE,"–",10,1
+2024-08-12,11,"Zach Bryan","Pink Skies",FALSE,"10",10,11
+2024-08-12,12,"Billie Eilish","Lunch",FALSE,"14",5,12
+2024-08-12,13,"Taylor Swift Feat. Post Malone","Fortnight",FALSE,"11",1,16
+2024-08-12,14,"Charli XCX","360",FALSE,"16",14,3
+2024-08-12,15,"Jordan Adetunji","Kehlani",FALSE,"23",15,1
+2024-08-12,16,"Post Malone Feat. Luke Combs","Guy For That",FALSE,"12",12,2
+2024-08-12,17,"The Kid Laroi","Girls",TRUE,"15",13,6
+2024-08-12,18,"Tommy Richman","Devil Is A Lie",FALSE,"17",14,7
+2024-08-12,19,"Ice Spice, Central Cee","Did It First",FALSE,"13",13,3
+2024-08-12,20,"Central Cee Feat. Lil Baby","Band4Band",FALSE,"18",8,11
 2024-08-05,1,"Shaboozey","A Bar Song (Tipsy)",FALSE,"1",1,15
 2024-08-05,2,"Billie Eilish","Birds Of A Feather",FALSE,"2",2,11
 2024-08-05,3,"Post Malone Feat. Morgan Wallen","I Had Some Help",FALSE,"4",1,12
