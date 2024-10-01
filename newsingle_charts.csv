@@ -1,4 +1,24 @@
 "chart_date","rank","artist","title","aus_flag","last_week","peak","weeks_in"
+2024-09-30,1,"Sabrina Carpenter","Taste",FALSE,"1",1,5
+2024-09-30,2,"Lady Gaga, Bruno Mars","Die With A Smile",FALSE,"2",2,6
+2024-09-30,3,"Sabrina Carpenter","Please Please Please",FALSE,"3",1,16
+2024-09-30,4,"Sabrina Carpenter","Bed Chem",FALSE,"4",4,5
+2024-09-30,5,"Tate McRae","It's ok I'm ok",FALSE,"5",5,2
+2024-09-30,6,"Charli XCX Feat. Billie Eilish","Guess",FALSE,"6",1,8
+2024-09-30,7,"Gigi Perez","Sailor Song",FALSE,"10",7,4
+2024-09-30,8,"Hanumankind, Kalmi","Big Dawgs",FALSE,"8",5,8
+2024-09-30,9,"Gracie Abrams","I Love You, I'm Sorry",FALSE,"9",7,6
+2024-09-30,10,"Charli XCX","Apple",FALSE,"12",8,8
+2024-09-30,11,"Addison Rae","Diet Pepsi",FALSE,"15",11,3
+2024-09-30,12,"The Weeknd","Dancing In The Flames",FALSE,"7",7,2
+2024-09-30,13,"The Kid Laroi","Girls",TRUE,"16",13,13
+2024-09-30,14,"Linkin Park","The Emptiness Machine",FALSE,"11",8,3
+2024-09-30,15,"The Kid Laroi","Baby I'm Back",TRUE,"19",15,4
+2024-09-30,16,"Post Malone Feat. Luke Combs","Guy For That",FALSE,"23",12,7
+2024-09-30,17,"Chase & Status, Stormzy","Backbone",FALSE,"17",14,7
+2024-09-30,18,"Teddy Swims","Bad Dreams",FALSE,"20",18,2
+2024-09-30,19,"Alex Warren","Burning Down",FALSE,"–",19,1
+2024-09-30,20,"Gracie Abrams","Close To You",FALSE,"21",18,2
 2024-08-12,1,"Charli XCX Feat. Billie Eilish","Guess",FALSE,"–",1,1
 2024-08-12,2,"Billie Eilish","Birds Of A Feather",FALSE,"2",2,12
 2024-08-12,3,"Post Malone Feat. Morgan Wallen","I Had Some Help",FALSE,"3",1,13
