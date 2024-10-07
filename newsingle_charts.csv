@@ -1,4 +1,24 @@
 "chart_date","rank","artist","title","aus_flag","last_week","peak","weeks_in"
+2024-10-07,1,"Sabrina Carpenter","Taste",FALSE,"1",1,6
+2024-10-07,2,"Lady Gaga, Bruno Mars","Die With A Smile",FALSE,"2",2,7
+2024-10-07,3,"Sabrina Carpenter","Bed Chem",FALSE,"4",3,6
+2024-10-07,4,"The Weeknd, Playboi Carti","Timeless",FALSE,"–",4,1
+2024-10-07,5,"Charli XCX Feat. Billie Eilish","Guess",FALSE,"6",1,9
+2024-10-07,6,"Tate McRae","It's ok I'm ok",FALSE,"5",5,3
+2024-10-07,7,"Gigi Perez","Sailor Song",FALSE,"7",7,5
+2024-10-07,8,"Addison Rae","Diet Pepsi",FALSE,"11",8,4
+2024-10-07,9,"Hanumankind, Kalmi","Big Dawgs",FALSE,"8",5,9
+2024-10-07,10,"Gracie Abrams","I Love You, I'm Sorry",FALSE,"9",7,7
+2024-10-07,11,"The Kid Laroi","Baby I'm Back",TRUE,"15",11,5
+2024-10-07,12,"Sabrina Carpenter","Good Graces",FALSE,"–",12,1
+2024-10-07,13,"The Kid Laroi","Girls",TRUE,"13",13,14
+2024-10-07,14,"Linkin Park","The Emptiness Machine",FALSE,"14",8,4
+2024-10-07,15,"The Weeknd","Dancing In The Flames",FALSE,"12",7,3
+2024-10-07,16,"Ndotz","Embrace It",FALSE,"–",16,1
+2024-10-07,17,"Post Malone Feat. Luke Combs","Guy For That",FALSE,"16",12,8
+2024-10-07,18,"Linkin Park","Heavy Is The Crown",FALSE,"59",18,1
+2024-10-07,19,"Chase & Status, Stormzy","Backbone",FALSE,"17",14,8
+2024-10-07,20,"Alex Warren","Burning Down",FALSE,"19",19,2
 2024-09-30,1,"Sabrina Carpenter","Taste",FALSE,"1",1,5
 2024-09-30,2,"Lady Gaga, Bruno Mars","Die With A Smile",FALSE,"2",2,6
 2024-09-30,3,"Sabrina Carpenter","Please Please Please",FALSE,"3",1,16
