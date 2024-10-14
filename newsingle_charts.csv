@@ -1,4 +1,24 @@
 "chart_date","rank","artist","title","aus_flag","last_week","peak","weeks_in"
+2024-10-14,1,"Sabrina Carpenter","Taste",FALSE,"1",1,7
+2024-10-14,2,"Lady Gaga, Bruno Mars","Die With A Smile",FALSE,"2",2,8
+2024-10-14,3,"Sabrina Carpenter","Bed Chem",FALSE,"3",3,7
+2024-10-14,4,"The Weeknd, Playboi Carti","Timeless",FALSE,"4",4,2
+2024-10-14,5,"Gigi Perez","Sailor Song",FALSE,"7",5,6
+2024-10-14,6,"Addison Rae","Diet Pepsi",FALSE,"8",6,5
+2024-10-14,7,"Gracie Abrams","I Love You, I'm Sorry",FALSE,"10",7,8
+2024-10-14,8,"Tate McRae","It's ok I'm ok",FALSE,"6",5,4
+2024-10-14,9,"Sabrina Carpenter","Juno",FALSE,"–",9,1
+2024-10-14,10,"The Kid Laroi","Baby I'm Back",TRUE,"11",10,6
+2024-10-14,11,"Hanumankind, Kalmi","Big Dawgs",FALSE,"9",5,10
+2024-10-14,12,"Ndotz","Embrace It",FALSE,"16",12,2
+2024-10-14,13,"The Kid Laroi","Girls",TRUE,"13",13,15
+2024-10-14,14,"The Weeknd","Dancing In The Flames",FALSE,"15",7,4
+2024-10-14,15,"KSI Feat. Trippie Redd","Thick Of It",FALSE,"–",15,1
+2024-10-14,16,"Post Malone Feat. Luke Combs","Guy For That",FALSE,"17",12,9
+2024-10-14,17,"Chase & Status, Stormzy","Backbone",FALSE,"19",14,9
+2024-10-14,18,"Alex Warren","Burning Down",FALSE,"20",18,3
+2024-10-14,19,"Morgan Wallen","Lies Lies Lies",FALSE,"23",16,5
+2024-10-14,20,"Linkin Park","The Emptiness Machine",FALSE,"14",8,5
 2024-10-07,1,"Sabrina Carpenter","Taste",FALSE,"1",1,6
 2024-10-07,2,"Lady Gaga, Bruno Mars","Die With A Smile",FALSE,"2",2,7
 2024-10-07,3,"Sabrina Carpenter","Bed Chem",FALSE,"4",3,6
