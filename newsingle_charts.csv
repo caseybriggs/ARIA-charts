@@ -1,4 +1,24 @@
 "chart_date","rank","artist","title","aus_flag","last_week","peak","weeks_in"
+2024-10-28,1,"Rosé, Bruno Mars","APT.",FALSE,"–",1,1
+2024-10-28,2,"Sabrina Carpenter","Taste",FALSE,"1",1,9
+2024-10-28,3,"Lady Gaga, Bruno Mars","Die With A Smile",FALSE,"2",2,10
+2024-10-28,4,"Gigi Perez","Sailor Song",FALSE,"5",4,8
+2024-10-28,5,"The Weeknd, Playboi Carti","Timeless",FALSE,"4",4,4
+2024-10-28,6,"Sabrina Carpenter","Bed Chem",FALSE,"3",3,9
+2024-10-28,7,"Addison Rae","Diet Pepsi",FALSE,"6",6,7
+2024-10-28,8,"Morgan Wallen","Love Somebody",FALSE,"–",8,1
+2024-10-28,9,"Gracie Abrams","That's So True",FALSE,"–",9,1
+2024-10-28,10,"KSI Feat. Trippie Redd","Thick Of It",FALSE,"7",7,3
+2024-10-28,11,"Ndotz","Embrace It",FALSE,"10",10,4
+2024-10-28,12,"Tate McRae","It's ok I'm ok",FALSE,"9",5,6
+2024-10-28,13,"Jennie","Mantra",FALSE,"14",13,2
+2024-10-28,14,"Sabrina Carpenter","Juno",FALSE,"8",8,3
+2024-10-28,15,"The Kid Laroi","Baby I'm Back",TRUE,"11",10,8
+2024-10-28,16,"Hanumankind, Kalmi","Big Dawgs",FALSE,"13",5,12
+2024-10-28,17,"Post Malone Feat. Luke Combs","Guy For That",FALSE,"15",12,11
+2024-10-28,18,"The Weeknd","Dancing In The Flames",FALSE,"17",7,6
+2024-10-28,19,"Chase & Status, Stormzy","Backbone",FALSE,"16",14,11
+2024-10-28,20,"Teddy Swims","Bad Dreams",FALSE,"18",18,4
 2024-10-21,1,"Sabrina Carpenter","Taste",FALSE,"1",1,8
 2024-10-21,2,"Lady Gaga, Bruno Mars","Die With A Smile",FALSE,"2",2,9
 2024-10-21,3,"Sabrina Carpenter","Bed Chem",FALSE,"3",3,8
