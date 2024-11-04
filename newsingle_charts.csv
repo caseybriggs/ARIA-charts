@@ -1,4 +1,24 @@
 "chart_date","rank","artist","title","aus_flag","last_week","peak","weeks_in"
+2024-11-04,1,"Rosé, Bruno Mars","APT.",FALSE,"1",1,2
+2024-11-04,2,"Sabrina Carpenter","Taste",FALSE,"2",1,10
+2024-11-04,3,"Lady Gaga, Bruno Mars","Die With A Smile",FALSE,"3",2,11
+2024-11-04,4,"Gracie Abrams","That's So True",FALSE,"9",4,2
+2024-11-04,5,"Gigi Perez","Sailor Song",FALSE,"4",4,9
+2024-11-04,6,"Tyler, The Creator","Noid",FALSE,"27",6,1
+2024-11-04,7,"The Weeknd, Playboi Carti","Timeless",FALSE,"5",4,5
+2024-11-04,8,"Tyler, The Creator","St. Chroma",FALSE,"–",8,1
+2024-11-04,9,"Sabrina Carpenter","Bed Chem",FALSE,"6",3,10
+2024-11-04,10,"Addison Rae","Diet Pepsi",FALSE,"7",6,8
+2024-11-04,11,"Tyler, The Creator","Darling, I",FALSE,"–",11,1
+2024-11-04,12,"Morgan Wallen","Love Somebody",FALSE,"8",8,2
+2024-11-04,13,"Lady Gaga","Disease",FALSE,"–",13,1
+2024-11-04,14,"Sabrina Carpenter","Juno",FALSE,"14",8,4
+2024-11-04,15,"Tate McRae","It's ok I'm ok",FALSE,"12",5,7
+2024-11-04,16,"Ndotz","Embrace It",FALSE,"11",10,5
+2024-11-04,17,"KSI Feat. Trippie Redd","Thick Of It",FALSE,"10",7,4
+2024-11-04,18,"The Kid Laroi","Baby I'm Back",TRUE,"15",10,9
+2024-11-04,19,"Hanumankind, Kalmi","Big Dawgs",FALSE,"16",5,13
+2024-11-04,20,"Jennie","Mantra",FALSE,"13",13,3
 2024-10-28,1,"Rosé, Bruno Mars","APT.",FALSE,"–",1,1
 2024-10-28,2,"Sabrina Carpenter","Taste",FALSE,"1",1,9
 2024-10-28,3,"Lady Gaga, Bruno Mars","Die With A Smile",FALSE,"2",2,10
