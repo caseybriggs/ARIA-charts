@@ -1,4 +1,24 @@
 "chart_date","rank","artist","title","aus_flag","last_week","peak","weeks_in"
+2024-11-18,1,"Gracie Abrams","That's So True",FALSE,"2",1,4
+2024-11-18,2,"Rosé, Bruno Mars","APT.",FALSE,"1",1,4
+2024-11-18,3,"Sabrina Carpenter","Taste",FALSE,"3",1,12
+2024-11-18,4,"Lady Gaga, Bruno Mars","Die With A Smile",FALSE,"4",2,13
+2024-11-18,5,"Gigi Perez","Sailor Song",FALSE,"5",4,11
+2024-11-18,6,"The Weeknd, Playboi Carti","Timeless",FALSE,"6",4,7
+2024-11-18,7,"Sabrina Carpenter","Bed Chem",FALSE,"8",3,12
+2024-11-18,8,"Tyler, The Creator","St. Chroma",FALSE,"7",7,3
+2024-11-18,9,"Morgan Wallen","Love Somebody",FALSE,"13",8,4
+2024-11-18,10,"Sabrina Carpenter","Juno",FALSE,"14",8,6
+2024-11-18,11,"Addison Rae","Diet Pepsi",FALSE,"12",6,10
+2024-11-18,12,"Tate McRae","It's ok I'm ok",FALSE,"17",5,9
+2024-11-18,13,"Teddy Swims","Bad Dreams",FALSE,"18",13,6
+2024-11-18,14,"Tyler, The Creator","Darling, I",FALSE,"9",9,3
+2024-11-18,15,"Tyler, The Creator","Sticky",FALSE,"11",11,2
+2024-11-18,16,"Sonny Fodera, D.O.D & Jazzy","Somedays",TRUE,"20",16,3
+2024-11-18,17,"Ndotz","Embrace It",FALSE,"19",10,7
+2024-11-18,18,"KSI Feat. Trippie Redd","Thick Of It",FALSE,"16",7,6
+2024-11-18,19,"The Weeknd Feat. Anitta","São Paulo",FALSE,"10",10,2
+2024-11-18,20,"Alex Warren Feat. Ella Henderson","Carry You Home",FALSE,"22",20,1
 2024-11-11,1,"Rosé, Bruno Mars","APT.",FALSE,"1",1,3
 2024-11-11,2,"Gracie Abrams","That's So True",FALSE,"4",2,3
 2024-11-11,3,"Sabrina Carpenter","Taste",FALSE,"2",1,11
