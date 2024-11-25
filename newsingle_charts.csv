@@ -1,4 +1,24 @@
 "chart_date","rank","artist","title","aus_flag","last_week","peak","weeks_in"
+2024-11-25,1,"Gracie Abrams","That's So True",FALSE,"1",1,5
+2024-11-25,2,"Rosé, Bruno Mars","APT.",FALSE,"2",1,5
+2024-11-25,3,"Sabrina Carpenter","Taste",FALSE,"3",1,13
+2024-11-25,4,"Lady Gaga, Bruno Mars","Die With A Smile",FALSE,"4",2,14
+2024-11-25,5,"The Weeknd, Playboi Carti","Timeless",FALSE,"6",4,8
+2024-11-25,6,"Tate McRae","2 Hands",FALSE,"–",6,1
+2024-11-25,7,"Sabrina Carpenter","Bed Chem",FALSE,"7",3,13
+2024-11-25,8,"Tate McRae","It's ok I'm ok",FALSE,"12",5,10
+2024-11-25,9,"Sabrina Carpenter","Juno",FALSE,"10",8,7
+2024-11-25,10,"Teddy Swims","Bad Dreams",FALSE,"13",10,7
+2024-11-25,11,"Addison Rae","Diet Pepsi",FALSE,"11",6,11
+2024-11-25,12,"Morgan Wallen","Love Somebody",FALSE,"9",8,5
+2024-11-25,13,"Tyler, The Creator","Sticky",FALSE,"15",11,3
+2024-11-25,14,"Tyler, The Creator","St. Chroma",FALSE,"8",7,4
+2024-11-25,15,"Alex Warren Feat. Ella Henderson","Carry You Home",FALSE,"20",15,2
+2024-11-25,16,"Linkin Park","The Emptiness Machine",FALSE,"31",8,6
+2024-11-25,17,"KSI Feat. Trippie Redd","Thick Of It",FALSE,"18",7,7
+2024-11-25,18,"Tyler, The Creator","Like Him",FALSE,"–",18,1
+2024-11-25,19,"The Kid Laroi","Baby I'm Back",TRUE,"22",10,10
+2024-11-25,20,"Ndotz","Embrace It",FALSE,"17",10,8
 2024-11-18,1,"Gracie Abrams","That's So True",FALSE,"2",1,4
 2024-11-18,2,"Rosé, Bruno Mars","APT.",FALSE,"1",1,4
 2024-11-18,3,"Sabrina Carpenter","Taste",FALSE,"3",1,12
