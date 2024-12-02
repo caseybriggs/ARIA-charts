@@ -1,4 +1,24 @@
 "chart_date","rank","artist","title","aus_flag","last_week","peak","weeks_in"
+2024-12-02,1,"Rosé, Bruno Mars","APT.",FALSE,"2",1,6
+2024-12-02,2,"Gracie Abrams","That's So True",FALSE,"1",1,6
+2024-12-02,3,"Sabrina Carpenter","Taste",FALSE,"3",1,14
+2024-12-02,4,"Lady Gaga, Bruno Mars","Die With A Smile",FALSE,"4",2,15
+2024-12-02,5,"Kendrick Lamar","Luther",FALSE,"–",5,1
+2024-12-02,6,"Kendrick Lamar","Squabble Up",FALSE,"–",6,1
+2024-12-02,7,"Kendrick Lamar","TV Off",FALSE,"–",7,1
+2024-12-02,8,"The Weeknd, Playboi Carti","Timeless",FALSE,"5",4,9
+2024-12-02,9,"Tate McRae","2 Hands",FALSE,"6",6,2
+2024-12-02,10,"Sabrina Carpenter","Bed Chem",FALSE,"7",3,14
+2024-12-02,11,"Teddy Swims","Bad Dreams",FALSE,"10",10,8
+2024-12-02,12,"Cynthia Erivo Feat. Ariana Grande","Defying Gravity",FALSE,"–",12,1
+2024-12-02,13,"Sabrina Carpenter","Juno",FALSE,"9",8,8
+2024-12-02,14,"Tate McRae","It's ok I'm ok",FALSE,"8",5,11
+2024-12-02,15,"Tyler, The Creator","Sticky",FALSE,"13",11,4
+2024-12-02,16,"Rosé","Number One Girl",FALSE,"–",16,1
+2024-12-02,17,"Addison Rae","Diet Pepsi",FALSE,"11",6,12
+2024-12-02,18,"Morgan Wallen","Love Somebody",FALSE,"12",8,6
+2024-12-02,19,"Stromae, Pomme","Ma Meilleure Ennemie",FALSE,"–",19,1
+2024-12-02,20,"Alex Warren","Carry You Home",FALSE,"15",15,3
 2024-11-25,1,"Gracie Abrams","That's So True",FALSE,"1",1,5
 2024-11-25,2,"Rosé, Bruno Mars","APT.",FALSE,"2",1,5
 2024-11-25,3,"Sabrina Carpenter","Taste",FALSE,"3",1,13
