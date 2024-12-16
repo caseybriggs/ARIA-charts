@@ -1,4 +1,24 @@
 "chart_date","rank","artist","title","aus_flag","last_week","peak","weeks_in"
+2024-12-16,1,"Rosé, Bruno Mars","APT.",FALSE,"1",1,8
+2024-12-16,2,"Gracie Abrams","That's So True",FALSE,"2",1,8
+2024-12-16,3,"Sabrina Carpenter","Taste",FALSE,"5",1,16
+2024-12-16,4,"Kendrick Lamar","Luther",FALSE,"3",3,3
+2024-12-16,5,"The Weeknd, Playboi Carti","Timeless",FALSE,"6",4,11
+2024-12-16,6,"Kendrick Lamar","TV Off",FALSE,"8",6,3
+2024-12-16,7,"Kendrick Lamar","Squabble Up",FALSE,"7",6,3
+2024-12-16,8,"Rosé","Toxic Till The End",FALSE,"–",8,1
+2024-12-16,9,"Sabrina Carpenter","Bed Chem",FALSE,"12",3,16
+2024-12-16,10,"Teddy Swims","Bad Dreams",FALSE,"13",10,10
+2024-12-16,11,"Cynthia Erivo Feat. Ariana Grande","Defying Gravity",FALSE,"10",10,3
+2024-12-16,12,"Stromae, Pomme","Ma Meilleure Ennemie",FALSE,"9",9,3
+2024-12-16,13,"Tate McRae","2 Hands",FALSE,"11",6,4
+2024-12-16,14,"Tate McRae","It's ok I'm ok",FALSE,"19",5,13
+2024-12-16,15,"Sabrina Carpenter","Juno",FALSE,"16",8,10
+2024-12-16,16,"Rosé","Number One Girl",FALSE,"23",16,2
+2024-12-16,17,"Morgan Wallen","Love Somebody",FALSE,"18",8,8
+2024-12-16,18,"Tyler, The Creator","Sticky",FALSE,"17",11,6
+2024-12-16,19,"Cynthia Erivo, Ariana Grande","What Is This Feeling?",FALSE,"15",15,2
+2024-12-16,20,"Ariana Grande","Popular",FALSE,"14",14,2
 2024-12-09,1,"Rosé, Bruno Mars","APT.",FALSE,"1",1,7
 2024-12-09,2,"Gracie Abrams","That's So True",FALSE,"2",1,7
 2024-12-09,3,"Kendrick Lamar","Luther",FALSE,"5",3,2
