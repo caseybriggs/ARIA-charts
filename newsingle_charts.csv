@@ -1,4 +1,24 @@
 "chart_date","rank","artist","title","aus_flag","last_week","peak","weeks_in"
+2024-12-23,1,"Rosé, Bruno Mars","APT.",FALSE,"1",1,9
+2024-12-23,2,"Gracie Abrams","That's So True",FALSE,"2",1,9
+2024-12-23,3,"Kendrick Lamar","Luther",FALSE,"4",3,4
+2024-12-23,4,"The Weeknd, Playboi Carti","Timeless",FALSE,"5",4,12
+2024-12-23,5,"Kendrick Lamar","TV Off",FALSE,"6",5,4
+2024-12-23,6,"Kendrick Lamar","Squabble Up",FALSE,"7",6,4
+2024-12-23,7,"Rosé","Toxic Till The End",FALSE,"8",7,2
+2024-12-23,8,"Teddy Swims","Bad Dreams",FALSE,"10",8,11
+2024-12-23,9,"Sam Barber Feat. Avery Anna","Indigo",FALSE,"–",9,1
+2024-12-23,10,"Cynthia Erivo Feat. Ariana Grande","Defying Gravity",FALSE,"11",10,4
+2024-12-23,11,"Tyler, The Creator","Sticky",FALSE,"18",11,7
+2024-12-23,12,"Chrystal","The Days - NOTION Remix",FALSE,"–",12,1
+2024-12-23,13,"Tyler, The Creator","Like Him",FALSE,"21",13,3
+2024-12-23,14,"Morgan Wallen","Love Somebody",FALSE,"17",8,9
+2024-12-23,15,"Stromae, Pomme","Ma Meilleure Ennemie",FALSE,"12",9,4
+2024-12-23,16,"Tate McRae","2 Hands",FALSE,"13",6,5
+2024-12-23,17,"Tate McRae","It's ok I'm ok",FALSE,"14",5,14
+2024-12-23,18,"Tyla","Push 2 Start",FALSE,"–",18,1
+2024-12-23,19,"Cynthia Erivo, Ariana Grande","What Is This Feeling?",FALSE,"19",15,3
+2024-12-23,20,"Ariana Grande","Popular",FALSE,"20",14,3
 2024-12-16,1,"Rosé, Bruno Mars","APT.",FALSE,"1",1,8
 2024-12-16,2,"Gracie Abrams","That's So True",FALSE,"2",1,8
 2024-12-16,3,"Sabrina Carpenter","Taste",FALSE,"5",1,16
