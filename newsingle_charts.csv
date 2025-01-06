@@ -1,4 +1,24 @@
 "chart_date","rank","artist","title","aus_flag","last_week","peak","weeks_in"
+2025-01-06,1,"Rosé, Bruno Mars","APT.",FALSE,"1",1,11
+2025-01-06,2,"Gracie Abrams","That's So True",FALSE,"2",1,11
+2025-01-06,3,"Kendrick Lamar","Luther",FALSE,"4",3,6
+2025-01-06,4,"The Weeknd, Playboi Carti","Timeless",FALSE,"6",4,14
+2025-01-06,5,"Chrystal","The Days - NOTION Remix",FALSE,"8",5,3
+2025-01-06,6,"SZA","BMF",FALSE,"–",6,1
+2025-01-06,7,"Kendrick Lamar","TV Off",FALSE,"10",5,6
+2025-01-06,8,"Tyla","Push 2 Start",FALSE,"12",8,3
+2025-01-06,9,"Sam Barber Feat. Avery Anna","Indigo",FALSE,"11",9,3
+2025-01-06,10,"Tyler, The Creator","Sticky",FALSE,"16",10,9
+2025-01-06,11,"Morgan Wallen","Love Somebody",FALSE,"17",8,11
+2025-01-06,12,"SZA, Kendrick Lamar","30 For 30",FALSE,"–",12,1
+2025-01-06,13,"Kendrick Lamar","Squabble Up",FALSE,"13",6,6
+2025-01-06,14,"Tyler, The Creator","Like Him",FALSE,"19",13,5
+2025-01-06,15,"Rosé","Toxic Till The End",FALSE,"15",7,4
+2025-01-06,16,"Cynthia Erivo Feat. Ariana Grande","Defying Gravity",FALSE,"18",10,6
+2025-01-06,17,"Tate McRae","It's ok I'm ok",FALSE,"21",5,15
+2025-01-06,18,"Tate McRae","2 Hands",FALSE,"20",6,7
+2025-01-06,19,"GloRilla","Whatchu Kno About Me",FALSE,"23",19,1
+2025-01-06,20,"Stromae, Pomme","Ma Meilleure Ennemie",FALSE,"22",9,5
 2024-12-30,1,"Rosé, Bruno Mars","APT.",FALSE,"1",1,10
 2024-12-30,2,"Gracie Abrams","That's So True",FALSE,"2",1,10
 2024-12-30,3,"Mark Ambor","Run Rudolph Run",FALSE,"–",3,1
