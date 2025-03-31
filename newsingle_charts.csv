@@ -1,4 +1,24 @@
 "chart_date","rank","artist","title","aus_flag","last_week","peak","weeks_in"
+2025-03-31,1,"Alex Warren","Ordinary",FALSE,"2",1,7
+2025-03-31,2,"Doechii","Anxiety",FALSE,"1",1,3
+2025-03-31,3,"Drake","Nokia",FALSE,"5",3,6
+2025-03-31,4,"Tate McRae","Sports car",FALSE,"6",2,9
+2025-03-31,5,"Lil Tecca","Dark Thoughts",FALSE,"18",5,2
+2025-03-31,6,"Tate McRae","Revolving Door",FALSE,"9",4,5
+2025-03-31,7,"Chappell Roan","The Giver",FALSE,"7",7,2
+2025-03-31,8,"Playboi Carti","Evil J0rdan",FALSE,"3",3,2
+2025-03-31,9,"Playboi Carti","Rather Lie",FALSE,"8",8,2
+2025-03-31,10,"Lady Gaga","Abracadabra",FALSE,"11",3,8
+2025-03-31,11,"Jennie","Like Jennie",FALSE,"14",10,3
+2025-03-31,12,"Sabrina Carpenter","Busy Woman",FALSE,"15",4,6
+2025-03-31,13,"Morgan Wallen","I'm The Problem",FALSE,"19",7,8
+2025-03-31,14,"Tate McRae Feat. The Kid Laroi","I Know Love",FALSE,"16",5,5
+2025-03-31,15,"Dom Dolla Feat. Daya","Dreamin",TRUE,"–",7,6
+2025-03-31,16,"Benson Boone","Sorry I'm Here For Someone Else",FALSE,"20",13,3
+2025-03-31,17,"PartyNextDoor, Drake & Yebba","Die Trying",FALSE,"17",10,6
+2025-03-31,18,"Sombr","Back To Friends",FALSE,"–",18,1
+2025-03-31,19,"Selena Gomez, Benny Blanco, Gracie Abrams","Call Me When You Break Up",FALSE,"–",19,3
+2025-03-31,20,"Morgan Wallen","I'm A Little Crazy",FALSE,"–",20,1
 2025-03-24,1,"Doechii","Anxiety",FALSE,"3",1,2
 2025-03-24,2,"Alex Warren","Ordinary",FALSE,"5",2,6
 2025-03-24,3,"Playboi Carti","Evil J0rdan",FALSE,"–",3,1
